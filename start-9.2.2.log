@@ -1,0 +1,8 @@
+2014-09-10 11:53:14.744:INFO::main: Logging initialized @577ms
+2014-09-10 11:53:15.018:INFO:oejs.Server:main: jetty-9.2.2.v20140723
+2014-09-10 11:53:15.065:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:/D:/jetty/jetty-distribution-9.2.2.v20140723/webapps/] at interval 1
+2014-09-10 11:53:15.068:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:/C:/Users/jalbrecht/AppData/Local/Temp/context3352913827613025120deploy/] at interval 1
+2014-09-10 11:53:15.092:INFO:oejs.ServerConnector:main: Started ServerConnector@11c757a1{HTTP/1.1}{0.0.0.0:9993}
+2014-09-10 11:53:15.093:INFO:oejs.Server:main: Started @932ms
+2014-09-10 11:53:17.977:INFO:oejj.ApplicationContextListener:Scanner-1: contextInitialized called
+2014-09-10 11:53:18.010:INFO:oejsh.ContextHandler:Scanner-1: Started o.e.j.w.WebAppContext@5e38634a{/JettyWebListenerBug,file:/C:/ws/jetty-weblistener-bug/target/JettyWebListenerBug/,AVAILABLE}{C:\ws\jetty-weblistener-bug\target\JettyWebListenerBug.war}

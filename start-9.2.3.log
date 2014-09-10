@@ -1,0 +1,8 @@
+2014-09-10 11:31:13.399:INFO::main: Logging initialized @607ms
+2014-09-10 11:31:13.669:INFO:oejs.Server:main: jetty-9.2.3.v20140905
+2014-09-10 11:31:13.712:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:/D:/jetty/jetty-distribution-9.2.3.v20140905/webapps/] at interval 1
+2014-09-10 11:31:17.364:INFO:oejsh.ContextHandler:main: Started o.e.j.w.WebAppContext@4717fc2e{/uptime-eventstream,file:/C:/Users/jalbrecht/AppData/Local/Temp/jetty-0.0.0.0-9993-uptime-eventstream.war-_uptime-eventstream-any-3031020156445517990.dir/webapp/,AVAILABLE}{D:\jetty\jetty-distribution-9.2.3.v20140905\webapps\uptime-eventstream.war}
+2014-09-10 11:31:17.422:INFO:oejdp.ScanningAppProvider:main: Deployment monitor [file:/C:/Users/jalbrecht/AppData/Local/Temp/context869239105066338134deploy/] at interval 1
+2014-09-10 11:31:17.445:INFO:oejs.ServerConnector:main: Started ServerConnector@7b687e27{HTTP/1.1}{0.0.0.0:9993}
+2014-09-10 11:31:17.446:INFO:oejs.Server:main: Started @4660ms
+2014-09-10 11:31:19.718:INFO:oejsh.ContextHandler:Scanner-1: Started o.e.j.w.WebAppContext@6ffe8d15{/JettyWebListenerBug,file:/C:/ws/jetty-weblistener-bug/target/JettyWebListenerBug/,AVAILABLE}{C:\ws\jetty-weblistener-bug\target\JettyWebListenerBug.war}
